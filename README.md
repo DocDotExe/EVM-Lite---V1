@@ -1,6 +1,6 @@
 # EVM - Lite 🌸
 
-I made this app because I needed a cleaner way to handle audio routing without the bloat of bigger software. 
+I made this app because I wanted a cleaner way to handle audio routing without the bloat of bigger software. 
 
 ### How it works:
 * **The Main Box:** This is your output (use your Virtual Cable here). It acts as the "microphone" for whatever app you're using (Discord, Zoom, etc.).
